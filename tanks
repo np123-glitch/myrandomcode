@@ -49,7 +49,7 @@ class Timer(object):
 						pass
 
 class Castle():
-	""" Player's castle/fortress """
+	""" Player's castle/fortress Neel"""
 
 	(STATE_STANDING, STATE_DESTROYED, STATE_EXPLODING) = range(3)
 
